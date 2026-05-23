@@ -1,15 +1,15 @@
 # Lab3
 ## Lab3yes
-## Lab33
+### Lab33
 
 this is my lab3 for labtest
 
-''' python
+``` python
 name=wuwulifei
-'''
-1.lab3
-2.lab3
-3.lab3
+```
+1. lab3
+2. lab3
+3. lab3
 
 - lab3
 - labtest success
@@ -17,7 +17,7 @@ name=wuwulifei
 
 [repository](https://github.com/WUWULIFEI/trainLab3)
 
-![image](C:\sp\year2\sem1\DAOIOT\Local_Git_Repository\aLab3\Lab3\images (1).jpg)
+![image](images/pic.jpg)
 
 |col1|col2|col3|
 |---|---|---|
